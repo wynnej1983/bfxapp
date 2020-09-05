@@ -1,0 +1,23 @@
+.Trades {
+  background-color: #1b262d;
+  margin: 20px;
+}
+
+.Trades-header {
+  font-size: 14px;
+  text-align: left;
+  padding: 10px;
+  border-bottom: 1px solid #555;
+  color: #c4c7c9;
+}
+
+.Trades-header .header {
+  color: white;
+}
+
+.Trades-container {
+  padding-left: 5px;
+  padding-right: 5px;
+  height: 530px;
+  overflow: scroll;
+}
