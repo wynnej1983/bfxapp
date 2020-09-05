@@ -48,6 +48,10 @@
   display: none;
 }
 
+.griddle-table {
+  border-spacing: 0px 0px;
+}
+
 .griddle-table-heading {
   text-transform: uppercase;
   font-size: 11px;
@@ -57,5 +61,4 @@
 
 .griddle-cell {
   font-size: 12px;
-
 }
